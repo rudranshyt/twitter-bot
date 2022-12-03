@@ -1,6 +1,7 @@
 import tweepy as twitter
 import keys
 import time
+import streamlit
 
 # API SETUP
 
